@@ -13,7 +13,7 @@
 ## Steps to do before runnning Program
     • Intsall required module
  	• Login in whatsapp web
- 	• Add timer 2min ahead as time needed to open whatsapp can vary ccording to your net speeed
+ 	• Add timer 2min ahead as time needed to open whatsapp can vary according to your net speed
  
  ## Improvents
  	• Can be converted into exe file to distribute
