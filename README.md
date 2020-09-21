@@ -11,7 +11,7 @@
  	• Easy Gui interface using (TKINTER)
   
 ## Steps to do before runnning Program
-        • Intsall require module
+       • Intsall require module
  	• Login in whatsapp web
  	• Add timer 2min ahead as time needed to open whatsapp can vary ccording to your net speeed
  
