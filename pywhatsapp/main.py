@@ -10,7 +10,7 @@ def changeOption(*args):
     data = choices[name.get()]
     data = choices[args[0]]
     var1 = data[0:15]
-    print('var1=', var1)
+   
 
 
 def go():
