@@ -73,9 +73,6 @@ keys = sorted(choices)  # don't over write option even sorted returns key
 name = StringVar(root)
 name.set('Contact List')
 
-# creating a dropdown and arranging in grid
-menu = OptionMenu(frame, name, *keys,
-                  command=changeOption).grid(row=3, column=0)
 
 
 root.mainloop()
